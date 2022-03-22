@@ -1,0 +1,21 @@
+{
+  "name": "nodekb",
+  "description": "Simple KnowledgeBase App",
+  "main": "app.js",
+  "authors": [
+    "Brad Traversy"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
